@@ -1,0 +1,10 @@
+## Interface: 20400
+## Title: ItemDestroyer
+## Author: Pyralis
+## Version: 1.0
+## Notes: Make destroying items more convenient and protect specific items from being destroyed.
+## SavedVariablesPerCharacter: ItemDestroyerSave
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+ItemDestroyer.lua
