@@ -11,7 +11,7 @@ When trying to delete an item, it can:
 * Auto-type "DELETE" on confirmation popups
 * Auto-confirm if holding shift
 * Auto-confirm if it's a gray quality item
-* Auto-confirm for Keal legendary weapons
+* Auto-confirm for Kael'thas legendary weapons
 * Cancel the deletion if the item is on a protection list
 
 To open the settings, use: **`/itemdestroyer`**
